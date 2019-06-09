@@ -1,0 +1,19 @@
+{
+  "name": "reactstoplight",
+  "version": "1.0.0",
+  "description": "trying to practice the spotlight activity in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickfinnigan/reactstoplight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickfinnigan/reactstoplight/issues"
+  },
+  "homepage": "https://github.com/patrickfinnigan/reactstoplight#readme"
+}
